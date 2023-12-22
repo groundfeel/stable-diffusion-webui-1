@@ -4,7 +4,7 @@ fairscale==0.4.4
 fonts
 font-roboto
 gfpgan
-gradio==3.9
+gradio==4.11.0
 invisible-watermark
 numpy
 omegaconf
